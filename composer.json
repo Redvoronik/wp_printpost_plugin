@@ -1,0 +1,12 @@
+{
+    "name": "root/wp_printpost_plugin",
+    "authors": [
+        {
+            "name": "katunsev",
+            "email": "katunsev@bk.ru"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
